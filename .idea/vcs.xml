@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gym-chess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gym-chess/gym-chess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gym-chess/gymchess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gymchess" vcs="Git" />
+  </component>
+</project>
